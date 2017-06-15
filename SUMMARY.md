@@ -1,3 +1,7 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Hello World](chapter1.md)
+  * [Hello World](chapter1/hello-world.md)
+* [Program Structure](program-structure.md)
+
